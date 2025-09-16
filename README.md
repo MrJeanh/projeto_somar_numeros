@@ -1,7 +1,7 @@
-# Projeto: Par ou Ímpar em Python
+# Projeto: Somar Números
 
 Este projeto foi desenvolvido como parte de estudos de **Python** e tem
-como objetivo criar um programa simples de **Soma dos Números**, com um menu interativo para o usuário escolher um número desejado.
+como objetivo criar um programa simples de **Soma dos Números**, com um menu interativo para o usuário escolher alguns números desejado.
 
 ## 📂 Estrutura do Projeto
 
