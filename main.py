@@ -1,10 +1,10 @@
 import funcoes as f
 
-"""
+'''
 Este programa solicita números do usuário,
 soma os dígitos e exibe o resultado.
 Exemplo: 54 -> 5 + 4 = 9
-"""
+'''
 
 print('Esse Programa foi desenvolvido como forma de aprendizado!')
 print('Nele o usuario deve fornecer alguns números e o programa irá somar eles')
@@ -15,6 +15,6 @@ def main():
     if soma.isdigit() and f.numeros_digitos(soma) == True:
         print(f'Números: {soma}\nResultado: {f.soma_digitos(soma)}')
     else : 
-        print('Forneça valores validos!')
+        print('Forneça valores válidos!')
         print('O Programa deve receber apenas números e ao menos dois digitos!')
 main()
